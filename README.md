@@ -11,7 +11,9 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
 
 ## Schedule
 
- 1. **9:30-9:50.** Brief introduction to Neural Networks (by Gustavo)
+ 1. **9:30-9:50.** Brief introduction to Neural Networks & DNN in the context of our research activities
+         - [Slides](https://www.dropbox.com/s/12ml8g8qrljoq5x/BRNN.pptx?dl=0)
+         - [Handout](https://www.dropbox.com/s/ll9vofbf7orucll/LAB%205%20Semi-Parametric%20II%20Penalized%20Neural%20Networks%20.docx?dl=0)
  
  2. **TensorFlow**
      * **9:50-10:40.** Introduction to the software.
