@@ -1,5 +1,5 @@
 
-# Neural Networks with TensorFlow in Python Workshop
+# Neural Networks with TensorFlow in Python
 
 [Group's Website](http://quantgen.github.io/)
 
@@ -14,7 +14,9 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
  1. **9:30-9:50.** Brief introduction to Neural Networks (by Gustavo)
  
  2. **TensorFlow**
-      * **9:50-10:40.** Introduction to the software.
+     * **9:50-10:40.** Introduction to the software.
+         - Introductory [(video)](https://www.tensorflow.org/)  
+         - General aspects [(video)]()
       * **10:40-11:00.** Installation in a PC (by Marco). [(Handout)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/Installation.md)
       * **11:00-11:20.** Tensorflow in the HPCC (by Mengying).
       
@@ -24,4 +26,5 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
       * **11:50-12:05.** Genomic prediction in humans (by Mengyin).
       
  4. **12:30.** Lunch in the Gallery at Snyder Phillips.
+ 
 ---
