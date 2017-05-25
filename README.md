@@ -20,5 +20,5 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
       * **11:20-11:35.** Genomic prediction in plants (by Christina).
       * **11:35-11:50.** Prediction of phenotypes using image data (by Marco).
       * **11:50-12:05.** Genomic prediction in humans (by Mengyin).
- 
+ * **12:30.** Lunch in the Gallery at Snyder Phillips.
 ---
