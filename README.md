@@ -15,7 +15,7 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
  
  2. **TensorFlow**
      * **9:50-10:40.** Introduction to the software.
-         - Presentation [(video)](https://www.tensorflow.org/)  
+         - Presentation [(video)](https://www.youtube.com/watch?v=mWl45NkFBOc)(4:03)
          - General aspects [(video)]()
          - Simple Linear Model [(video)](https://www.youtube.com/watch?v=wuo4JdG3SvU&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
       * **10:40-11:00.** Installation in a PC (by Marco). [(Handout)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/Installation.md)
