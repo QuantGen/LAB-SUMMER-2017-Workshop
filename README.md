@@ -1,96 +1,24 @@
 
-# Lab Meetings QuantGen Group Spring 2017
+# Neural Networks with TensorFlow Workshop
 
 [Group's Website](http://quantgen.github.io/)
 
+As a summer activity in our lab, we have prepared a small internal workshop to share experiences and speed up our learning with Tensorflow which is an open source software for machine learning capable of building and training neural networks to detect and decipher patterns and correlations.
+
+* **Date**: Friday, May 26, 2017 from 9:30 am to 12:30 pm.
+* **Location**: Phillips 149 (Mason Seminar Room), 361 Physics Rd, East Lansing, MI 48825
+* **Material needed**: Bring your laptop. The software will be installed in your own laptop and it will be run either in the HPCC or in your laptop.
+
 ## Schedule
 
- * **Date**: Friday, January 20, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Organizational Meeting
- * **Topic(s)**: 
-       * Discuss plan for the Spring, including lab meeting and papers in progress.
-       * **Presentation**: Methods for Analysis of Multi-layered High Dimensional Inputs (Gustavo)
- * **Materials**: [(ppt)](https://dl.dropboxusercontent.com/u/22482453/presentations/HD-ANOVA.pptx)
-
+ * **9:30-9:50.** Brief introduction to Neural Networks (by Gustavo)
+ * **TensorFlow**
+      * **9:50-10:40.** Introduction to the software.
+      * **10:40-11:00.** Installation in a PC (by Marco). [(Handout)]
+      * **11:00-11:20.** Tensorflow in the HPCC (by Mengying).
+ * **Examples with TensorFlow**
+      * **11:20-11:35.** Genomic prediction in plants (by Christina).
+      * **11:35-11:50.** Prediction of phenotypes using image data (by Marco).
+      * **11:50-12:05.** Genomic prediction in humans (by Mengyin).
+ 
 ---
-
- * **Date**: Friday, February 3, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Quan Long (University of Calgary, Canada)
- * **Topic(s)**: (1) putting data in disk and analyze them in RAM. (2) haplotype inference from the pooled sequencing.
- * **Materials**: 
-
----
-
- * **Date**: Friday, February 10, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**:Mengying Sun
- * **Topic(s)**:Convex optimization for sparse-inducing norms
- * **Materials**: [(slides)](https://www.dropbox.com/s/tpry70xdx2w10ey/Convex%20Optimization_3.pptx?dl=0)
-
----
-
- * **Date**: Friday, February 17, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Hwasoon Kim
- * **Topic(s)**: LD score
- * **Materials**: [LD Score regression](https://www.dropbox.com/s/k1c80fb33qpxm3q/Bulik-Sullivan_2015.pdf?dl=0) & [LD Hub](https://www.dropbox.com/s/6lpllbpxye9f4y8/Zheng_2016.pdf?dl=0)
-
----
-
- * **Date**: Friday, February 24, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Arjun Krishnan (Assistant Professor in the departments of Computational Mathematics, Science & Engineering and Biochemistry & Molecular Biology)
- * **Topic(s)**: Genome-wide prediction and functional characterization of the genetic basis of autism
- * **Materials**: [Arjun's Website](https://www.arjun-krishnan.net/)
-
----
-
- * **Date**: Friday, March 3, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Alexander Grueneberg
- * **Topic(s)**: BGData
- * **Materials**: 
-
----
-
- * **Date**: Friday, March 17, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Agustin Gonzalez
- * **Topic(s)**: Cancer Methylomics
- * **Materials**: [(online article: Witte et al. 2014)](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-014-0066-6)
-
----
-
- * **Date**: Friday, March 24, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Raka Mandal
- * **Topic(s)**: Small and Large sample bias of genomic heritability estimates
- * **Materials**: 
-
----
-
- * **Date**: Friday, March 31, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Yeni Liliana Bernal Rubio
- * **Topic(s)**: GWAS using electronic health records 
- * **Materials**:[Hoffman et al., 2017.Nature Genetics.](http://www.nature.com/ng/journal/v49/n1/pdf/ng.3715.pdf)
-
----
-
- * **Date**: Friday, April 7, 2017
- * **Time**: 1:00–2:00 p.m.
- * **Room**: Central Conference Room, 909 Fee Road, 6th Floor West Fee
- * **Presenter(s)**: Marco Lopez-Cruz
- * **Topic(s)**: 
- * **Materials**: 
