@@ -18,8 +18,8 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
  2. **TensorFlow**
      * **9:50-10:40.** Introduction to the software.
          - Presentation [(video)](https://www.youtube.com/watch?v=mWl45NkFBOc) (4:03)
-         - General aspects [(video)]()
-         - Simple Linear Model [(video)](https://www.youtube.com/watch?v=wuo4JdG3SvU&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ) (21:03)
+         - General aspects [(video)](https://www.youtube.com/watch?v=MotG3XI2qSs) (5:37)
+         - Simple Linear Model [(video)](https://www.youtube.com/watch?v=zNalsMIB3NE) (4:23)
       * **10:40-11:00.** Installation in a PC (by Marco). [(Handout)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/Installation.md)
       * **11:00-11:20.** Tensorflow in the HPCC (by Mengying). [(Handout)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/hpcc_handout.pdf)
       
