@@ -14,7 +14,7 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
  * **9:30-9:50.** Brief introduction to Neural Networks (by Gustavo)
  * **TensorFlow**
       * **9:50-10:40.** Introduction to the software.
-      * **10:40-11:00.** Installation in a PC (by Marco). [(Handout)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/Handout_installation.docx)
+      * **10:40-11:00.** Installation in a PC (by Marco). [(Handout)](~/LAB-SUMMER-2017-Workshop/Handout_installation.docx)
       * **11:00-11:20.** Tensorflow in the HPCC (by Mengying).
  * **Examples with TensorFlow**
       * **11:20-11:35.** Genomic prediction in plants (by Christina).
