@@ -1,7 +1,7 @@
 
 ## Intallation of Python, TensorFlow and Keras
 
-* 0) If you need to remove old versions of Python
+0. If you need to remove old versions of Python
 
 ```
 sudo rm -rf /Library/Frameworks/Python.framework
@@ -11,17 +11,17 @@ ls -l . | grep '../Library/Frameworks/Python.framework' | awk '{print $9}' | xar
 sudo rm -rf "/Applications/Python 2.7"   
 ```
 
-* 1) Python installation
+1. Python installation
 
 	* https://www.python.org
 	* Downloads -> Python 3.6.1 
 	* Go to “Downloads” and install the software
 
-* 2) Open python in terminal. 
+2. Open python in terminal. 
 ```
 python2.7
 python3.6
-python                      Open the default python installation
+python                      # Open the default python installation
 ```
 Change the default python installation by using bash_profile.
 ```
@@ -32,11 +32,12 @@ and add
 alias python='python3'
 ```
 
-* 3) Install pip.
-
+3. Install pip.
+```
 sudo easy_install pip
+```
 
-* 4) Install TensorFlow in Mac. More datails in https://www.tensorflow.org/install/
+4. Install TensorFlow in Mac. More datails in https://www.tensorflow.org/install/
 ```
 pip install tensorflow	 # Python 2.7
 pip3 install tensorflow	 # Python 3.x
@@ -58,11 +59,12 @@ If installation failed again, try reinstalling it like this:
 sudo pip uninstall tensorflow
 pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.1-py3-none-any.whl
 ```
-* 5) Install keras.
 
+5. Install keras.
+```
 sudo pip install keras		#For version 2.7
 sudo pip3 install keras		#For version 3.x
-
+```
 
 You can start by running your first Neural Network program in python
 ```
