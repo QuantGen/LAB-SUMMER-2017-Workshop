@@ -7,7 +7,9 @@
 sudo rm -rf /Library/Frameworks/Python.framework
 cd /usr/local/bin
 ls -l . | grep '../Library/Frameworks/Python.framework' | awk '{print $9}' | xargs sudo rm
-
+```
+Also, you have to remove the program from Applications folder, for instance
+```
 sudo rm -rf "/Applications/Python 2.7"   
 ```
 
@@ -15,19 +17,19 @@ sudo rm -rf "/Applications/Python 2.7"
 
 	* https://www.python.org
 	* Downloads -> Python 3.6.1 
-	* Go to “Downloads” and install the software
+	* Go to 'Downloads' folder and install the software
 
-2. Open python in terminal. 
+2. Open python in **terminal**. 
 ```
 python2.7
 python3.6
 python                      # Open the default python installation
 ```
-Change the default python installation by using bash_profile.
+Change the default python installation by editing bash_profile in the **terminal**.
 ```
 vim ~/.bash_profile
 ```
-and add
+and add, for instance
 ```
 alias python='python3'
 ```
@@ -37,12 +39,12 @@ alias python='python3'
 sudo easy_install pip
 ```
 
-4. Install TensorFlow in Mac. More datails in https://www.tensorflow.org/install/
+4. Install TensorFlow library in Mac from **terminal**. More datails can be found in the [(official webpage)](https://www.tensorflow.org/install/)
 ```
 pip install tensorflow	 # Python 2.7
 pip3 install tensorflow	 # Python 3.x
 ```
-You can add option ```–-user``` to install it in users folder. Verify installation by running your first program in python
+You can add option ```–-user``` to install it in users folder. To verify the installation you can run a first program in **Python**
 ```	
 import tensorflow as tf
 hello = tf.constant('Hello world!')
@@ -60,13 +62,13 @@ sudo pip uninstall tensorflow
 pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.1-py3-none-any.whl
 ```
 
-5. Install keras.
+5. Install Keras library from **terminal**.
 ```
-sudo pip install keras		#For version 2.7
-sudo pip3 install keras		#For version 3.x
+sudo pip install keras		# Python 2.7
+sudo pip3 install keras		# Python 3.x
 ```
 
-You can start by running your first Neural Network program in python
+You can start by running your first Neural Network program in **Python**
 ```
 import numpy as np 
 from keras.models import Sequential
