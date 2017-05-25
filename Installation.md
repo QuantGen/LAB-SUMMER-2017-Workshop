@@ -87,7 +87,7 @@ model.add(Dense(50,input_dim=100,activation='relu'))
 model.add(Dense(units=10))
 model.add(Dense(units=1))
 model.compile(loss='mean_squared_error',optimizer='adam')
-model.fit(x_train, y_train, epochs=100, batch_size=800)
+model.fit(x_train, y_train, epochs=10, batch_size=800)
 yHat = model.predict(x_test, batch_size=800)[:,0]
 np.corrcoef(y_test,yHat)[0,1]
 ```
