@@ -24,6 +24,7 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
       * **11:00-11:20.** Tensorflow in the HPCC (by Mengying). [(Handout)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/hpcc_handout.pdf)
       
  3. **Examples with TensorFlow**
+      * Hypothetical example.
       * **11:20-11:35.** Genomic prediction in plants (by Christina).
       * **11:35-11:50.** Prediction of phenotypes using image data (by Marco).
       * **11:50-12:05.** Genomic prediction in humans (by Mengyin). [(Slides)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/Phenotype%20Prediction%20Fom%20Human%20Whole%20Genome%20Profile.pdf)
