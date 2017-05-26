@@ -28,8 +28,8 @@ As a summer activity in our lab, we have prepared a small internal workshop to s
       * **11:20-11:35.** Genomic prediction in plants (by Christina).
       * **11:35-11:50.** Prediction of phenotypes using image data (by Marco).
           - [Slides](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/Prelim.pptx)
-          - [Python code 1]
-          - [Python code 2]
+          - [Python code 1](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/fit_NN.py)
+          - [Python code 2](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/code_NN.py)
       * **11:50-12:05.** Genomic prediction in humans (by Mengyin). [(Slides)](https://github.com/QuantGen/LAB-SUMMER-2017-Workshop/blob/master/Phenotype%20Prediction%20Fom%20Human%20Whole%20Genome%20Profile.pdf)
       
  4. **12:30.** Lunch in the Gallery at Snyder Phillips.
