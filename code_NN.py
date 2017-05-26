@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import math
 import os
 
-PATH_ROOT = '/mnt/research/quantgen/projects/demo/maize/code'
+PATH_ROOT = '/mnt/research/quantgen/projects/demo/maize'
 os.chdir(PATH_ROOT+"/code")
 
 from fit_NN import fit_NN
