@@ -7,6 +7,7 @@ import math
 import os
 
 PATH_ROOT = '/mnt/research/quantgen/projects/demo/maize'
+# PATH_ROOT = '/Users/adm/Documents/maize'
 os.chdir(PATH_ROOT+"/code")
 
 from fit_NN import fit_NN
